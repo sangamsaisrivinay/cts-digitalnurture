@@ -1,4 +1,4 @@
-| | | |
+
 |-|-|-|
 |Topics|Sub-Topics|URLs|
 |Object Oriented Proramming Concepts|Class & Objects,static variables (class variables)|https://www.geeksforgeeks.org/classes-objects-java/|
