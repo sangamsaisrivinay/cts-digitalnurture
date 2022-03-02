@@ -1,9 +1,10 @@
 java practice on hackerrank
 <table>
+  <tr><th>topic</th><th>Strings</th></tr>
   <tr><td><a href="https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true">1</a></td>
-    <td><a href="">solution</a></td></tr>
-  <tr><td><a href=""></a></td>
-    <td><a href=""></a></td></tr>
+    <td><a href="https://github.com/sangamsaisrivinay/cts-digitalnurture/blob/main/java-hackerrank/1.java">string length and comparision</a></td></tr>
+  <tr><td><a href="https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true&h_r=next-challenge&h_v=zen">2</a></td>
+    <td><a href="https://github.com/sangamsaisrivinay/cts-digitalnurture/blob/main/java-hackerrank/2.java">substring</a></td></tr>
   <tr><td><a href=""></a></td>
     <td><a href=""></a></td></tr>
   <tr><td><a href=""></a></td>
