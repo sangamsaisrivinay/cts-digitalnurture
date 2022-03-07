@@ -1,0 +1,46 @@
+# webui training day1
+
+HTML
+
+input field types
+<input type="submit"/>
+<input type="reset"/>
+<input type="email"/>
+<input type="date"/>
+<input type="radio" name="--"/>
+<input type="checkbox" name="--"/>
+
+dropdowns
+<select>
+<option selected></option>	--> shows option as default selected
+<option></option>
+<option></option>
+</select>
+
+'required' keyword for input field --> input should not be empty
+
+form submission to server
+there are 2 methods
+get and post
+<form method="get">
+<form method="post">
+
+  <h1> form submission methods</h1>
+  <h3> diff b/w get and post methods</h3>
+this type of form submission transfers the content of form as plain text
+so all intermediary users can read it when we use get method
+when we use post method the content is transferd in the http package so other users cant read it
+
+  syntactic elements
+  <article>
+    <nav>     etc...
+      
+      
+      css
+      
+      selector
+      
+  
+  
+
+
